@@ -1,5 +1,8 @@
 _repo: The-Mentor-The-Cradle-of-Liberty-Vol-6-Num-10-Serial-No-158-July-1-1918_51556
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51556-h/images/cover.jpg
 creator:
   author:
     agent_name: Hart, Albert Bushnell
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2196
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bushnell_Hart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51556#The-Mentor-The-Cradle-of-Liberty-Vol-6-Num-10-Serial-No-158-July-1-1918
 gutenberg_issued: '2016-03-25'
 gutenberg_type: Text
 identifiers:
